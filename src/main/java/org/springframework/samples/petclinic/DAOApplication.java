@@ -10,11 +10,11 @@ public class DAOApplication implements CommandLineRunner  {
 	
 	
 
-	public static void main(String[] args) {
-		SpringApplication.run(DAOApplication.class, args);
-		
-
-	}
+//	public static void main(String[] args) {
+//		SpringApplication.run(DAOApplication.class, args);
+//		
+//
+//	}
 
 	@Override
 	public void run(String... args) throws Exception {
